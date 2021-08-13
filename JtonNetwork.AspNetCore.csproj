@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>JtonNetwork.AspNetCore</PackageId>
-    <Version>0.0.3-alpha.1</Version>
+    <Version>0.0.3-alpha.2</Version>
     <Authors>svnscha</Authors>
     <PackageDescription>ASP .NET Core Extensions to easily implement RESTful services using Substrate storages.</PackageDescription>
     <RepositoryUrl>https://github.com/JetonNetwork/JtonNetwork.AspNetCore</RepositoryUrl>
@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
-    <PackageReference Include="JtonNetwork.ServiceLayer" Version="0.0.3-alpha.1" />
+    <PackageReference Include="JtonNetwork.ServiceLayer" Version="0.0.3-alpha.2" />
   </ItemGroup>
 
 </Project>
