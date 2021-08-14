@@ -4,8 +4,11 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>JtonNetwork.AspNetCore</PackageId>
     <Version>0.0.3</Version>
+    <Company>BloGa Tech AG</Company>
     <Authors>svnscha</Authors>
     <PackageDescription>ASP .NET Core Extensions to easily implement RESTful services using Substrate storages.</PackageDescription>
+    <PackageProjectUrl>https://github.com/JetonNetwork/JtonNetwork.AspNetCore</PackageProjectUrl>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <RepositoryUrl>https://github.com/JetonNetwork/JtonNetwork.AspNetCore</RepositoryUrl>
   </PropertyGroup>
 
